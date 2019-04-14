@@ -1,4 +1,4 @@
-body{font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; max-width: 800px; margin: auto; padding: 0px 3px 0px 3px}
+body{font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; max-width: 800px; margin: auto; padding: 0px 5px 0px 5px}
 img{max-width:100%}
 h1{font-size: x-large; color: #EA0029; font-weight: bold}
 h1.DocTitle{font-size: xx-large; text-transform: uppercase; margin-bottom: 0px}
@@ -7,4 +7,4 @@ h2{font-size: larger; color: #323E48}
 h3{font-size: larger; color: #323E48; font-style: italic; font-weight: normal}
 p{color: black}
 p.DocAbstract{font-style:italic}
-p.DocCaption{font-size: smaller; margin-top: 0px}
+p.DocCaption{font-size: smaller; margin-top: 0px; font-style: italic}
