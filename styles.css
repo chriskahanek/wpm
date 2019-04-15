@@ -1,14 +1,11 @@
-body{font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; max-width: 640px; margin: auto; padding: 0px 5px 0px 5px}
+body{font-size: 11pt; font-family: 'Calibri', sans-serif; max-width: 640px; margin: auto; padding: 0px 5px 0px 5px}
 img{max-width:100%}
 h1{font-size: 14pt; color: #EA0029; font-weight: bold}
 h1.DocTitle{font-size: 24pt; text-transform: uppercase; margin-bottom: 0px}
 h1.DocSubtitle{color:#323E48; margin-top: 0px}
 h2{font-size: 14pt; color: #323E48}
 h3{font-size: 14pt; color: #323E48; font-style: italic; font-weight: normal}
-p{font-size: 11pt; color: black}
 p.DocAbstract{font-style:italic}
 p.DocCaption{font-size: 10pt; margin-top: 0px; font-style: italic}
 a:link, a:visited{background-color: transparent; color:#EA0029; text-decoration: none}
 a:hover, a:active{background-color: transparent; color:#EA0029; text-decoration: underline}
-ul{font-size:11pt}
-ol{font-size:11pt}
