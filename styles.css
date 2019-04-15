@@ -8,5 +8,5 @@ h3{font-size: larger; color: #323E48; font-style: italic; font-weight: normal}
 p{color: black}
 p.DocAbstract{font-style:italic}
 p.DocCaption{font-size: smaller; margin-top: 0px; font-style: italic}
-a.link, a.visited{background-color: transparent; color:#EA0029; text-decoration: none}
-a.hover, a.active{background-color: transparent; color:#EA0029}
+a:link, a:visited{background-color: transparent; color:#EA0029; text-decoration: none}
+a:hover, a:active{background-color: transparent; color:#EA0029; text-decoration: underline}
