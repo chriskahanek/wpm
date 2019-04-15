@@ -10,3 +10,5 @@ p.DocAbstract{font-style:italic}
 p.DocCaption{font-size: 10pt; margin-top: 0px; font-style: italic}
 a:link, a:visited{background-color: transparent; color:#EA0029; text-decoration: none}
 a:hover, a:active{background-color: transparent; color:#EA0029; text-decoration: underline}
+ul{font-size:11pt}
+ol{font-size:11pt}
